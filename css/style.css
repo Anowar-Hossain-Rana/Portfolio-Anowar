@@ -231,10 +231,7 @@ section {
 
 
 
-.home-imgHover:hover {
-    background-color: var(--bg-color);
-    opacity: .8;
-}
+
 
 
 .about {
