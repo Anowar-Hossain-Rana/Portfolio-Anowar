@@ -229,15 +229,7 @@ section {
 
 }
 
-.home-imgHover {
-    position: absolute;
-    top: 10;
-    right: 0;
-    width: 45%;
-    height: 100%;
-    background: transparent;
-    transition: 3s;
-}
+
 
 .home-imgHover:hover {
     background-color: var(--bg-color);
